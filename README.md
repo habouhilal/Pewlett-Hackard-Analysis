@@ -1,17 +1,17 @@
 # Pewlett-Hackard-Analysis
 Recources
 
-Software /n
+Software \n
 SQL, PostgreSQL, pgAdmin
 
 ## Overview 
 
 Pewlett Hackard is a company with a large number of employees. As many of baby boomers are beginning to retire, HR is conducting an Analysis for the future retirement plans, vacant positions and implementing process of rehiring employees in an effort to ensure the continuity of the company. The analysis focused on the following
 
-. Determining the number of retiring employees /n
-. Determining the number of retiring employees per title, /n
-. Identifying employees who are eligible to participate in a mentorship program. /n
-. Creating tailored lists for specific departments /n
+. Determining the number of retiring employees \n
+. Determining the number of retiring employees per title, \n
+. Identifying employees who are eligible to participate in a mentorship program. \n
+. Creating tailored lists for specific departments \n
 
 ## Results
 
