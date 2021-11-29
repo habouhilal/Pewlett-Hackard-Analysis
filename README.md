@@ -1,8 +1,9 @@
 # Pewlett-Hackard-Analysis
 Recourses
-•	Tables.csv
+* Tables.csv
+
 Software
-•	 SQL, PostgreSQL, pgAdmin
+* SQL, PostgreSQL, pgAdmin
 
 ## Overview 
 
